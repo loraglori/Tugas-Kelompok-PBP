@@ -7,6 +7,7 @@
 3. Syadza Nayla Arrana Desvianto - 2106634055
 4. Nasha 2106651906 - Rathina Shabur
 5. Made Indri Maharani Natiadewi - 2106704295 
+6. Laura Glory Evangeline Sihombing - 2106751751
 
 ### Link App Heroku
 LInk: https://tugas-kelompok-a09.herokuapp.com/
